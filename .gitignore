@@ -1,3 +1,4 @@
+ 
 # Spring Boot
 target/
 *.log
@@ -13,5 +14,5 @@ target/
 
 # Environment files
 .env
-
+application.properties
 application.yml
